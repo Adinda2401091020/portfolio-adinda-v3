@@ -19,6 +19,11 @@ For a public portfolio, sensitive personal details such as full date of birth, f
 
 ## Before publishing
 - Replace `#` repository links in `index.html` with the actual GitHub repository URLs.
-- Replace stylized project screens with real screenshots in `assets/images/`.
+- Project screenshots from the portfolio PDF are used for SIS-SPMB, SIGMA PNP, and Painanku.
+- The hero visual is an original animated illustration of a woman wearing a hijab and coding.
+- Replace the in-progress restaurant system UI mockups with real screenshots in `assets/images/` when available.
+- The restaurant menu mockup uses an Unsplash stock food photo, not a project screenshot.
 - Add your preferred profile photo if desired.
 - Add your LinkedIn URL.
+
+Restaurant stock photo source: [Unsplash](https://images.unsplash.com/photo-1546069901-ba9599a7e63c).

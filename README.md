@@ -18,7 +18,7 @@ It also includes the project/repository names shown in the GitHub screenshot and
 For a public portfolio, sensitive personal details such as full date of birth, full home address, and personal phone number are intentionally not displayed on the landing page. Keep those details in a private/application CV if needed.
 
 ## Before publishing
-- Replace `#` repository links in `index.html` with the actual GitHub repository URLs.
+- Four repository cards link to confirmed public GitHub repositories. The Kel-3-PU-MI3C and PBO_2401091020 cards remain non-clickable until public repository URLs are confirmed.
 - Project screenshots from the portfolio PDF are used for SIS-SPMB, SIGMA PNP, and Painanku.
 - The hero visual is an original animated illustration of a woman wearing a hijab and coding.
 - Replace the in-progress restaurant system UI mockups with real screenshots in `assets/images/` when available.
